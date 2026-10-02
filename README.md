@@ -1,4 +1,4 @@
-# Retail Fusion --- End-to-End Retail Data Engineering & Analytics Platform
+# Retail Fusion End-to-End Data Engineering & Analytics Platform
 
 Retail Fusion is an end-to-end **retail data engineering and analytics
 platform built on Databricks**. The project integrates data from
@@ -20,7 +20,8 @@ The Databricks dashboard provides an executive view of retail
 performance across revenue, customers, products, sales channels,
 geography, payment methods, and industries.
 
-![Retail Fusion Dashboard](retail_fusion_dashboard.png)
+<img width="1744" height="1110" alt="retail_fusion_dashboard_merged" src="https://github.com/user-attachments/assets/95aebdac-5cd6-4c29-9fb0-9a3cd81fbc6d" />
+
 
 ### Dashboard KPIs
 
@@ -515,24 +516,6 @@ Retail Fusion provides:
 -   Automated pipeline orchestration
 -   Interactive Databricks analytics dashboards
 -   A scalable foundation for future retail analytics
-
-------------------------------------------------------------------------
-
-# 🚀 Future Enhancements
-
-Potential extensions include:
-
--   Customer lifetime value analysis
--   Customer segmentation
--   Sales forecasting
--   Product profitability analysis
--   Inventory analytics
--   Promotion effectiveness analysis
--   Automated data-quality monitoring
--   Data lineage and governance
--   Incremental processing optimization
--   Pipeline monitoring and alerting
--   Role-based dashboard access
 
 ------------------------------------------------------------------------
 
