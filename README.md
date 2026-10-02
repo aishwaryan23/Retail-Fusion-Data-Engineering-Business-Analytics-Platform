@@ -356,6 +356,9 @@ data pipeline and its dependent tasks.
 This allows the platform to move from a collection of notebooks to an
 automated data engineering workflow.
 
+<img width="1910" height="529" alt="image" src="https://github.com/user-attachments/assets/e353b64b-f245-49d0-b927-5d1a32684148" />
+
+
 ------------------------------------------------------------------------
 
 # 📊 Databricks Analytics Dashboard
